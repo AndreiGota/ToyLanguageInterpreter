@@ -1,7 +1,7 @@
-## Toy Language Interpreter
+# Toy Language Interpreter
 An interpreter for a Toy programming language written in Java with a graphical user interface
 
-# Used concepts and Technical Features
+## Used concepts and Technical Features
 - Graphical User Interface built using JavaFX
 - Layered architecture
 - Use of multi-threading
@@ -9,7 +9,7 @@ An interpreter for a Toy programming language written in Java with a graphical u
 - Exceptions handling
 - Java streams
 
-# Instructions:
+## Instructions:
 - logical expressions
 - arithmetical expressions
 - relational expressions
@@ -21,14 +21,13 @@ An interpreter for a Toy programming language written in Java with a graphical u
 - fork (multi-threading)
 - heap allocation, reading and writing
 
-
-# Variables Types:
+## Variables Types:
 - Bool
 - Int
 - String
 - Reference
 
-# Functionalities
+## Functionalities
 - Storing instructions in execution stacks
 - Storing local variables in symbol tables
 - Storing BufferedReader objects into a file table used for file operations
@@ -40,3 +39,5 @@ An interpreter for a Toy programming language written in Java with a graphical u
 # GUI
 - a window to select the programs
 - a window to execute the selected program
+<p align="center"> <img src="https://github.com/AndreiGota/ToyLanguageInterpreter/blob/master/images/Capture1.PNG" height="500"/> </p>
+<p align="center"> <img src="https://github.com/AndreiGota/ToyLanguageInterpreter/blob/master/images/Capture2.PNG" height="500"/> </p>
